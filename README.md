@@ -18,7 +18,9 @@ El objetivo es construir el backend de una aplicación de blog. El frontend ya s
 
 Para lograr esto, además de crear todos los endpoints necesarios deberá crear la base de datos para almacenar toda la información (posteos) que la aplicación vaya generando.
 
-En este repositorio cuenta con un video llamada "ejemplo_funcionando.mp4" en el cual podrá ver como debería funcionar su aplicación una vez concluida.
+En este repositorio cuenta con un gif llamado "ejemplo_funcionando.gif" en el cual podrá ver como debería funcionar su aplicación una vez concluida:
+
+![ejemplo_funcionando](ejemplo_funcionando.gif)
 
 ## Recursos
 - Contará con todos los archivos necesarios de frontend en las carpeta templates y static.
